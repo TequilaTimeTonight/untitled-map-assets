@@ -1,0 +1,169 @@
+// Half-Life Texture Types.  Modify this file only if texture names are changed!
+// 'M' metal
+// 'V' ventillation
+// 'S' slosh liquid 
+// 'T' tile
+// 'G' grate 
+// 'C' Concrete
+// 'W' wood
+// 'P' computer
+// 'Y' glass
+// 'B' Wooden Tiles
+// 'R' Carpet/Fabric
+// 'X' Generic (concrete sound, generic decal)
+// 'Z' None (no decals, only sound)
+// 'K' Rock
+// 'L' Gravel/Dirt
+// 'N' Snow
+ 
+// NOTE: only the first 12 characters of the texture name are used
+// NOTE: a maximum of 512 textures may be tagged in this file
+
+
+
+S  !c2a5
+Y  {flaschen
+M  {grid2
+Y  {hswn401
+M  {jailbar
+M  {jaildor
+W  {ladder3a3
+R  {poster_beerdog
+R  {poster_Corps
+R  {poster_k@0$
+R  {poster_skully
+W  {rad
+W  {railbed
+R  {sk_table1
+R  {sk_table2
+R  {sk_visit
+W  {swing_door_lt
+W  {swing_door_rt
+M  {train_wheel
+M  {train_wheels
+W  {wong_bonsai
+Y  {wong_bottle01
+M  {wong_brush
+R  {wong_corset01
+R  {wong_corset02
+R  {wong_dress1
+R  {wong_dress2
+R  {wong_dress3
+C  {wong_figurine
+W  {wong_fire
+W  {wong_mirror
+R  {wong_purse
+R  {wong_rug
+R  {wong_sheer
+R  {wong_shoe01
+R  {wong_shoe02
+R  {wong_shoe03
+W  {zaun
+X  babtech_dr1c
+M  babtech6e
+K  benrock4
+M  black
+Y  bn2_bar2
+W  c1wwwh2
+W  c1wwwh3
+W  cabinet15
+W  cabinet16
+W  cabtrim
+L  cim_trk_p
+L  cim_trk_tm
+W  door5
+W  fift_drtemp
+W  fifties_dr61
+M  fifties_dsk5b
+C  fifties_wall12
+W  fiftiesgs_dr2
+W  fwwareh1
+M  generic_111a
+Y  glass_dark
+Y  glassblue2
+Y  greely_glass
+W  gwhotel
+Y  gwtrnwin
+Y  gwwn641
+W  holz
+W  holz2
+W  holz3
+W  holz3a
+W  holz4
+W  holz6
+K  ital_wall5a
+M  lab1_comp3f
+M  metal14_2
+M  metal18
+R  misswong_02
+R  morgan64
+M  out_vnt
+W  out_wd1
+W  outhouse_door
+W  outhouse_wall
+W  pfeiler
+W  piano_front
+W  piano_keys
+W  piano_side
+W  planwagen_botto
+R  planwagen_front
+R  planwagen_side
+R  planwagen_top
+W  schild2
+M  steel
+L  stroh1
+W  tex_jack
+W  tisch_front2
+W  tisch2_front
+W  tnt_front
+W  tnt_side
+W  tnt_top
+M  train_cowcatch
+M  train_gauge
+M  train_tender
+M  traingeneric2
+W  tranke
+W  wand_holz1
+W  wand_holz1aa
+W  wand_holz1b2
+W  wand_holz1d
+W  wand_holz2
+W  wand_holz3
+W  wand_holz4a
+W  wand_holz4b
+W  wand_holz4b2
+W  wand_holz4bb
+W  wand_holz6
+W  wand_holz6a
+W  wand_holz6bb
+W  wand_holz6c
+W  wand_holz6d
+W  wand_holz6d2
+W  wand_holz7
+R  wong_art1
+R  wong_art2
+R  wong_art4
+R  wong_art5
+W  wong_corner
+B   wong_floor
+W  wong_furn
+R  wong_leopard
+T  wong_marble
+W  wong_moulding
+R  wong_satin3
+W  wong_wall
+W  wong_wood
+W  xt_oc_roof
+W  zaun
+
+
+
+
+
+
+
+
+
+
+
+

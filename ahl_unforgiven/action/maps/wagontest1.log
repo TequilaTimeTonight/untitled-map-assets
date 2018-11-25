@@ -1,0 +1,116 @@
+hlcsg v3.4-VL34-SC5.0 64-bit (Mar  2 2016)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.0
+Based on code modifications by Vluzacn (VL34)
+Based on code modifications by Sean 'Zoner' Cavanaugh (3.4)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to http://forums.svencoop.com
+-----  BEGIN  hlcsg -----
+Command line: C:\PROGRA~2\Steam\STEAMA~1\common\SVENCO~2\mapping\COMPIL~1\SC-CSG~1.EXE "C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop_addon\maps\wagontest1" 
+Arguments: "C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop_addon\maps\wagontest1" 
+Entering C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop_addon\maps\wagontest1.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       4 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+reset logfile         [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 67108864 ] [ 67108864 ]
+max lighting memory   [ 67108864 ] [ 67108864 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [     off ] [     off ]
+clip hull type        [  simple ] [  simple ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+wad configuration file[    None ] [    None ]
+wad.cfg group name    [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.000 ] [   0.000 ]
+brush union threshold [   0.000 ] [   0.000 ]
+map scaling           [    None ] [    None ]
+light name optimize   [      on ] [      on ]
+convert game_text     [      on ] [      on ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+CreateBrush:
+ (0.02 seconds)
+CSGBrush:
+ (0.03 seconds)
+
+Including Wadfile: \program files (x86)\steam\steamapps\common\sven co-op sdk\mapping\compilers\zhlt.wad
+ - Contains 1 used texture, 11.11 percent of map (19 textures in wad)
+Using Wadfile: \users\easch\desktop\mapping stuff\unforgiven.wad
+ - Contains 8 used textures, 88.89 percent of map (146 textures in wad)
+
+Wad files required to run the map: "unforgiven.wad;"
+Texture usage is at 0.28 mb (of 64.00 mb MAX)
+0.05 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4-VL34-SC5.0 64-bit (Mar  2 2016)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.0
+Based on code modifications by Vluzacn (VL34)
+Based on code modifications by Sean 'Zoner' Cavanaugh (3.4)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to http://forums.svencoop.com
+-----  BEGIN  hlbsp -----
+Command line: C:\PROGRA~2\Steam\STEAMA~1\common\SVENCO~2\mapping\COMPIL~1\SC-BSP~1.EXE "C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop_addon\maps\wagontest1" 
+Arguments: "C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop_addon\maps\wagontest1" 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 67108864 ] [ 67108864 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noinsidefill        [     off ] [     off ]
+noopt               [     off ] [     off ]
+no clipnode merging [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+nobrink             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 65536)
+remove hull 2       [     off ] [     off ]
+
+
+SolidBSP [hull 0] 102 (0.00 seconds)
+BSP generation successful, writing portal file 'C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop_addon\maps\wagontest1.prt'
+SolidBSP [hull 1] 99 (0.00 seconds)
+SolidBSP [hull 2] 64 (0.00 seconds)
+SolidBSP [hull 3] 89 (0.02 seconds)
+Reduced 183 clipnodes to 172
+Reduced 32 texinfos to 31
+Reduced 9 texdatas to 9 (1512 bytes to 1512)
+Reduced 518 planes to 159
+FixBrinks:
+Increased 172 clipnodes to 172.
+0.10 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+

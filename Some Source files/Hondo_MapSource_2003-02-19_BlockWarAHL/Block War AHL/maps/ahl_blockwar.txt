@@ -1,0 +1,80 @@
+=================================================================================
+* LEVEL INFORMATION *
+---------------------------------------------------------------------------------
+TITLE                   : Block War for AHL
+FILENAME                : ahl_blockwar.bsp
+AUTHOR                  : Hondo (Brian McClelland)
+DATE                    : March, 2001
+GAME                    : Action Half-Life
+TYPE                    : Deathmatch/Teamplay
+EMAIL ADDRESS           : Hondo@Telefragged.com
+HOMEPAGE URL            : http://ahl.telefragged.com (for the mod, I have none)
+ 
+---------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+---------------------------------------------------------------------------------
+A large city map, with a gun store, hotel, parking garage, sewer, and stuff. 
+
+Mostly by request did I bother converting my large ugly AQ2 map, but in the end
+I think it came out pretty nice and is a pleasing level overall. I made the
+hotel interior a little smaller, but it's still a large map. Besides that, the
+architecture is nearly exact in all places to the AQ2 version.
+
+Ammo is spread liberally around, though I myself can't remember where any of
+the M4 clips are. All weapons are in except the MSG90.
+
+---------------------------------------------------------------------------------
+SINGLE PLAYER           : No.
+CO-OPERATIVE            : No.
+DEATHMATCH              : Yes
+SUGGESTED PLAYER LOAD   : Many
+DIFFICULTY SETTINGS     : Not Applicable.
+NEW TEXTURES            : Yes
+NEW SOUNDS              : Yes
+CD TRACK #              : 0
+SECRET                  : Yes
+ 
+---------------------------------------------------------------------------------
+* CONSTRUCTION *
+---------------------------------------------------------------------------------
+MAP BASE                : Block War for AQ2
+PREFABS USED            : Only my own
+EDITOR(S) USED          : Worldcraft 2.1
+OTHER UTILITIES USED    : Wally, Photoshop
+KNOWN BUGS              : None that I know of.
+COMPILE MACHINE         : P-3 550, 128mb RAM
+
+---------------------------------------------------------------------------------
+* OTHER RELEASED LEVELS BY THE AUTHOR *
+---------------------------------------------------------------------------------
+ACTION QUAKE II         : Block War
+ACTION HALF-LIFE	: 5 AM, Endless Rain, HDHouseV3, Cliff 2 Snow, No Credit
+ 
+---------------------------------------------------------------------------------
+* CREDITS / SPECIAL THANKS *
+---------------------------------------------------------------------------------
+Id Software, Valve Software, The A-Team, and everyone in the Action community.
+
+I can't remember where all the textures came from. I made them all, except the
+stucco ones, which are by Adam Smith and myself. Thanks to him and Rich 
+Whitehouse for testing. 
+
+Thanks to Zoner for his -sparse option in HLRAD so I can make things this
+horribly large.
+
+Song is Hydra by Dir en grey.
+
+
+=================================================================================
+* COPYRIGHT / PERMISSIONS *
+---------------------------------------------------------------------------------
+If you have any use for this level besides simply playing it, then you should
+probably talk to me. If what you're doing will net you cash, then you MUST
+e-mail me or I will fly to your hometown and kill your entire extended family.
+Chances are, I will if you mail me at all.
+
+Don't modify this in any way, and any distribution of the level MUST contain
+this text file and all other files in their correct directory structure (in fact,
+please just use the .zip file this came in).
+
+Steal the textures freely, just credit me for any of them.
